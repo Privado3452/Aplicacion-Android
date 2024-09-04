@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BarberApp</string>
+    <string name="bienvenido">Barber Face</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu Contraseña?</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="barber_face">Barber-Face</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="contrase">Contraseña</string>
+    <string name="confirmar_contrse_a">Confirmar Contrseña</string>
+    <string name="acepto">Acepto terminos y condiciones</string>
+    <string name="reg">Registrarse</string>
+    <string name="bienvenido_barbero">Bienvenido Barbero</string>
+    <string name="p1">Ahora podras conectarte con los clientes y que ellos vean tu trabajo y asi mismo podras usar nuestra funcion ¡BARBER FACE!</string>
+    <string name="continuar">Continuar</string>
+    <string name="feli">¡Felicidades te has registrado!</string>
+    <string name="cont">Continuar</string>
+    <string name="barb">Barber Face</string>
+    <string name="rese_as">Reseñas</string>
+    <string name="compa_eros">Compañeros</string>
+    <string name="barber">Barber Face</string>
+    <string name="todo">TODO</string>
+    <string name="d">TODO</string>
+    <string name="tod">TODO</string>
+    <string name="nombr">Nombre</string>
+    <string name="apellido4">Apellido</string>
+</resources>
