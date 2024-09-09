@@ -29,6 +29,13 @@ class MenuActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        val Viewr=findViewById<TextView>(R.id.textView2)
+
+        Viewr.setOnClickListener {
+            val intent = Intent(this, RecuperarActivity::class.java )
+            startActivity(intent)
+        }
+
 
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->

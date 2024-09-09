@@ -28,4 +28,8 @@
     <string name="tod">TODO</string>
     <string name="nombr">Nombre</string>
     <string name="apellido4">Apellido</string>
+    <string name="restrarblecer_contrase_a">Restrarblecer Contraseña</string>
+    <string name="restablecer">Restablecer</string>
+    <string name="gty">TODO</string>
+    <string name="env">Enviar</string>
 </resources>
